@@ -1,0 +1,7 @@
+- name: '0 - Backlog'
+  color: 'CCCCCC'
+  description: 'The issue is accepted'
+- name: '0 - _Triaging'
+  color: 'eeeeee'
+  description: 'Issue is accepted, but no milestone has been associated'
+  aliases: ['triage', '0 - Triaging']
