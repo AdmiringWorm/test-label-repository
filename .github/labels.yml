@@ -1,1 +1,3 @@
-
+- name: "Requires NuGet.Core Change"
+  color: E10D60
+  description: "This issue requires a modification to something in referenced NuGet.Core library."
