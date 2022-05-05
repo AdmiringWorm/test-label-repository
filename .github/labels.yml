@@ -8,6 +8,4 @@
   description: "Issues related to shimgen"
 - name: "Task"
   color: "006B75"
-- name: "Package Issue"
-  color: "eb6420"
-  description: "Issues that are invalid for this repository, and is for packages that need to be fixed by a maintainer"
+
