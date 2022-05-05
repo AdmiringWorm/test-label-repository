@@ -10,3 +10,4 @@
   color: "006B75"
 - name: "Package Issue"
   color: "eb6420"
+  description: "Invalid issues that need to be fixed by a package maintainer"
