@@ -8,4 +8,5 @@
   description: "Issues related to shimgen"
 - name: "Task"
   color: "006B75"
-
+- name: "Package Issue"
+  color: "eb6420"
