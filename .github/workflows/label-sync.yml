@@ -8,11 +8,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: EndBug/label-sync@v2
+      - uses: EndBug/label-sync@v2.1.0
         with:
           config-file: |
             https://raw.githubusercontent.com/WormieCorp/.github/master/.github/labels.json
-            .github/labels.json
 
           # If you want to use a source repo, you can put is name here (only the owner/repo format is accepted)
           #source-repo: owner/repo
